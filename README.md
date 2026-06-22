@@ -4,7 +4,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Dependencies](#dependencies)
-* [File Descriptions](#file-descriptions)
+* [File descriptions](#file-descriptions)
 * [Setup](#setup)
 
 ## General info
@@ -22,7 +22,7 @@ Project is created with:
 * tidyverse 2.0.0
 * matlib 1.0.1
 
-## File Descriptions
+## File descriptions
 #### CEE7980_HW6_Moody.r
 Main kriging script. Includes package installation, data setup, matrix creation, and graphing.
 
