@@ -4,6 +4,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Dependencies](#dependencies)
+* [File Descriptions](#file-descriptions)
 * [Setup](#setup)
 
 ## General info
@@ -22,13 +23,13 @@ Project is created with:
 * matlib 1.0.1
 
 ## File Descriptions
-### CEE7980_HW6_Moody.r
+#### CEE7980_HW6_Moody.r
 Main kriging script. Includes package installation, data setup, matrix creation, and graphing.
 
-### variogram_mf.r
+#### variogram_mf.r
 Script performs calculations needed to create a variogram using the provided data.
 
-### N5Samples.xlsx
+#### N5Samples.xlsx
 xlxs file containing sample geostatistics data to create variogram.
 
 ## Setup
